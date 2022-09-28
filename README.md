@@ -16,3 +16,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
  
 ### <img src="https://github.com/Albert1915/Gif/blob/main/1f91d.png" width="30"> Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/albert-okario-b965a3189/"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a> &nbsp
+<a href="mailto:okarioalbert@gmail.com"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a> &nbsp
+<a href="https://instagram.com/putu_waw"><img width="20" height="20"src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a> &nbsp
+<a href="https://www.facebook.com/putu.widyantara.3/"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"/></a> &nbsp
+<a href="https://www.pinterest.ca/pwidyantara"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Pinterest-logo.png"/></a>
+</p>

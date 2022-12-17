@@ -19,7 +19,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
  
 ### <img src="https://github.com/Albert1915/Gif/blob/main/1f91d.png" width="30"> Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/albert-okario-b965a3189/"><img width="20" height="20" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a> &nbsp
 <a href="mailto:okarioalbert@gmail.com"><img width="20" height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a> &nbsp
 <a href="https://instagram.com/albert.1915"><img width="20" height="20"src="https://cdn-icons-png.flaticon.com/512/174/174855.png"/></a> &nbsp

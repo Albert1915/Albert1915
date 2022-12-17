@@ -1,7 +1,7 @@
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
 <div align = 'left' >
     <img src = '' 
-         width = '500' align = 'left' alt = 'joni'>
+         width = '500' align = 'left' alt = 'Albert'>
 
 
 ### Hi there, I'm Albert Okario <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">

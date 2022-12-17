@@ -1,12 +1,9 @@
+
+### Hi there, I'm Albert Okario <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
 <div align = 'center' >
     <img src = 'https://github.com/Albert1915/Albert1915/blob/main/Albert.jpeg' 
-         width = '500' align = 'center' alt = 'Albert'>
-
-
-### Hi there, I'm Albert Okario <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
-
-
+         width = '400' align = 'center' alt = 'Albert'>
   
 ### 🧑‍💻 About Me
 - 🏫 I’m currently studying Informatics at the Udayana University.

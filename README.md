@@ -1,6 +1,6 @@
 <h1 align = 'center'>Hi Everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> <br></h1>
-<div align = 'left' >
-    <img src = '' 
+<div align = 'center' >
+    <img src = 'https://github.com/Albert1915/Albert1915/blob/main/Albert.jpeg' 
          width = '500' align = 'left' alt = 'Albert'>
 
 

@@ -9,7 +9,7 @@
 - 🏫 I’m currently studying Informatics at the Udayana University.
 - 💡I love to follow about latest technology.
 - 👀 I'm interested in Mobile Application, Web Programming, and UI/UX.
-- 💻 I spend my time playing games or learning.
+- 💻 I spend my time learning something new that making me interested.
 
 ### ⚙️ Language and Tools
 ![Kotlin](https://img.shields.io/badge/-Kotlin-D34FFF?style=flat&logo=Kotlin&logoColor=F0FF42)&nbsp;
